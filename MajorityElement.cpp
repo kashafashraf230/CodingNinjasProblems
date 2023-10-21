@@ -1,3 +1,7 @@
+Problem Link: https://www.codingninjas.com/studio/problems/majority-element_842495
+
+Google Docs Link: https://docs.google.com/document/d/1DM3CBS6AiBVOTKZO_0unjfn81Km47_sr7A4G6KKuLdA/edit?usp=sharing
+
 #include <bits/stdc++.h>
 
 int findMajorityElement(int arr[], int n) {
